@@ -1,0 +1,19 @@
+/* PersonList.css */
+
+.person-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .person-table th, .person-table td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .person-image {
+    width: 50px; /* Adjust the width as needed */
+    height: 50px; /* Adjust the height as needed */
+    border-radius: 50%; /* Make the image circular */
+  }
+  
